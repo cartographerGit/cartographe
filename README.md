@@ -1,4 +1,4 @@
 # cartographe
 статьи
 
-![f] ()
+![f] (/least-github-pages/assets/Новый точечный рисунок (4).bmp)
